@@ -1,6 +1,6 @@
-- 👋 Hi, I’m farirai mars
+- 👋 Hi, I’m farirai maruta
 - 👀 I’m interested in data analysis and user experience
-- 🌱 I’m currently learning computer engineering 
+- 🌱 I’m currently learning computer engineering specialising in AI and Data Science
 -📫 How to reach me at https://www.linkedin.com/in/farirai-maruta-b4b296203
 
 <!---
